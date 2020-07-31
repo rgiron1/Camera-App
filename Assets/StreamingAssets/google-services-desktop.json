@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "770415089488",
+    "firebase_url": "https://camera-app-d3244.firebaseio.com",
+    "project_id": "camera-app-d3244",
+    "storage_bucket": "camera-app-d3244.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770415089488:android:22aa4ceaa45eceb5ecbe55",
+        "android_client_info": {
+          "package_name": "com.rgiron.Cameraapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770415089488-dq5br347f0s56cp3cul0n4014vilp7om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA28AeucVNJwz3IQNqBRMuqSpaHnvs4wjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770415089488-dq5br347f0s56cp3cul0n4014vilp7om.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

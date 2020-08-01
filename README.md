@@ -8,6 +8,6 @@
 
 # Limitations
 ### 1. The App and storage can only store 9 Pictures as of now
-### 1. After a picture is taken user must wait 3 seconds before taking another picture or else the picture will be uploaded to the storage, but not displayed in the gallery
-### 1. Pictures that are in storage when the app is closed will not be displayed when the user renters the app. No database is set up for it
-### 1. App is only compatible with Androids
+### 2. After a picture is taken user must wait 3 seconds before taking another picture or else the picture will be uploaded to the storage, but not displayed in the gallery
+### 3. Pictures that are in storage when the app is closed will not be displayed when the user renters the app. No database is set up for it
+### 4. App is only compatible with Androids
